@@ -1,0 +1,92 @@
+#navbar{
+    background-color: #F9C784!important;
+}
+
+nav a{
+    color: #E7E7E7;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+.corpo{
+    background-color: #E7E7E7;
+
+}
+
+.separa{
+
+    background-color: #F9C784;
+
+
+    margin: 3rem 0 1rem 0;
+
+    padding: 12px 0px;
+
+    color: #E7E7E7;
+    font-weight: bolder;
+    font-size: 2rem;
+    border-style: double;
+
+}
+
+
+.info-chica{
+
+    margin-top: 2rem !important;
+    text-align: center;
+}
+
+.texto{
+    font-weight: 500;
+    background-color: #485696;
+    padding: 1.2rem;
+    color: #E7E7E7;
+    border-radius: 7px;
+    border-style: double;
+}
+
+
+
+
+
+.chica-card-img{
+    max-height: 200px;
+    overflow-y: hidden;
+}
+
+#cadastroForm{
+    background-color: #F9C784;
+    border-radius: 10px;
+}
+
+#cadastroForm label{
+    margin-top: 1rem;
+    color: white;
+    font-weight: 500;
+}
+
+#cadastroForm input{
+    border-radius: 5px;
+    border: solid 1px;
+}
+
+.inp-large{
+    width: 70%;
+    
+}
+
+#cadastroForm button{
+    margin: 1rem 0;
+    background-color: #485696;
+
+    color: white;
+    font-weight: 700;
+}
+
+table th{
+    border:double #E7E7E7;
+}
+table td{
+    border: double #E7E7E7;
+}
